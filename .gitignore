@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/AWS.Lambda.Powetools.Metrics.Sample/src/AWS.Lambda.Powetools.Metrics.Sample/aws-lambda-tools-defaults.json
